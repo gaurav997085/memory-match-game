@@ -24,9 +24,6 @@ A simple and fun **Memory Match Game** built using **HTML, CSS, and JavaScript**
 
 ---
 
-## 📸 Preview
-![Screenshot 2025-04-15 141341](https://github.com/user-attachments/assets/b9575cd8-5013-442d-9f61-53dc74a4e457)
-
 
 
 ---
@@ -41,7 +38,7 @@ git clone https://github.com/your-username/emoji-memory-game.git
 cd emoji-memory-game
 
 
-start index.html     # Windows
-```
-## Website Link : https://memory-match-game-nine.vercel.app/
+# start index.html     # Windows
+# ```
+# ## Website Link : https://memory-match-game-nine.vercel.app/
 
